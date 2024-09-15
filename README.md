@@ -14,8 +14,8 @@ After this i will decide you gonna contribute on Github or not. (If required the
 Try to make Responsive site
  For colour pallete and logo and other things you can use below link
 
- https://www.flaticon.com/
- https://www.htmlcssbuttongenerator.com/css-button-generator.php
- https://colorhunt.co/
+ https://www.flaticon.com/ <br>
+ https://www.htmlcssbuttongenerator.com/css-button-generator.php<br>
+ https://colorhunt.co/<br>
 
  For more reources and need other help then you can ping me, i will update the resouce folder
