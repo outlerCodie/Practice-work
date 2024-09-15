@@ -1,21 +1,21 @@
 # Practice-work
-<h1> Create a folder with your name and then work<br>
-Check img folder for images and other folders for other resources</h1>
+<h2> Create a folder with your name and then work<br>
+Check img folder for images and other folders for other resources</h2>
 
 <h4> Ananya have to design the Landing page (check the refrence Landing.jpg)</h4>
 <h4> Harshit Have to design Login page (Check login.jpg for resouces)</h4>
 
  You can use HTML, CSS, Bootstrap, Tailwind, JSX
 
-## You have 48 hours to complete your task, after that your role and contribution will decided in this project (Don't worry, you are in. This is just for practice and checking your knowlwdge)
+ You have 48 hours to complete your task, after that your role and contribution will decided in this project (Don't worry, you are in. This is just for practice and checking your knowlwdge)
 
-## After this i will decide you gonna contribute on Github or not. (If required then after this task i will teach you know to contribuute in team project on github.)
+After this i will decide you gonna contribute on Github or not. (If required then after this task i will teach you know to contribuute in team project on github.)
 
-## Try to make Responsive site
-## For colour pallete and logo and other things you can use below link
+Try to make Responsive site
+ For colour pallete and logo and other things you can use below link
 
-### https://www.flaticon.com/
-### https://www.htmlcssbuttongenerator.com/css-button-generator.php
-### https://colorhunt.co/
+ https://www.flaticon.com/
+ https://www.htmlcssbuttongenerator.com/css-button-generator.php
+ https://colorhunt.co/
 
-### For more reources and need other help then you can ping me, i will update the resouce folder
+ For more reources and need other help then you can ping me, i will update the resouce folder
