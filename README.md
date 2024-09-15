@@ -1,6 +1,6 @@
 # Practice-work
-<h2> Create a folder with your name and then work<br></h2>h2>
-<h3></h3>(Check img folder for images and other folders for other resources)</h3>
+<h2> Create a folder with your name and then work<br></h2>
+<h3>(Check img folder for images and other folders for other resources)</h3>
 
 <h4> Ananya have to design the Landing page (check the refrence Landing.jpg)</h4>
 <h4> Harshit Have to design Login page (Check login.jpg for resouces)</h4>
